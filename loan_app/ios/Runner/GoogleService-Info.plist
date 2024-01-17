@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAFHr4d8kq4BrHsJ7h2eA3guFeSUsbdCsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466815897366</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loanApp</string>
+	<key>PROJECT_ID</key>
+	<string>loanapp-fbeba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loanapp-fbeba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466815897366:ios:f99f90dd0072bd0cd20a37</string>
+	<key>DATABASE_URL</key>
+	<string>https://loanapp-fbeba-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

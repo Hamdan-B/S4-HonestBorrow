@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "466815897366",
+    "firebase_url": "https://loanapp-fbeba-default-rtdb.firebaseio.com",
+    "project_id": "loanapp-fbeba",
+    "storage_bucket": "loanapp-fbeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466815897366:android:6e19df38aed9c8e9d20a37",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfO3EkR3lrfeynwkypLC0zcuDTRVdZgZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466815897366:android:5cebe7d7e9706a97d20a37",
+        "android_client_info": {
+          "package_name": "com.example.loan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfO3EkR3lrfeynwkypLC0zcuDTRVdZgZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
